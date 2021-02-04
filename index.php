@@ -13,6 +13,6 @@
 	<div style="width:200px;height:200px;background:blue;color:white;padding:50px;margin:10px">
     Um teste em quadrado
     <br>
-    <img src="b1.jpg" style="widht: 200px">
+    <img src="b2.jpg" style="widht: 100px">
 	</div>
 </div>
