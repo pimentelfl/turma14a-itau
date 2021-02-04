@@ -11,3 +11,6 @@
 <div style="width:200px;height:200px;background:yellow">
     Um testes em quadrado
 </div>
+<div style="width:200px;height:200px;background:blue">
+    Dois testes em quadrado
+</div>
